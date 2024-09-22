@@ -6,7 +6,7 @@ This repository contains an implementation of the K-Nearest Neighbors (KNN) clas
 - Vectorized Operations: Instead of using traditional loops, we employed vectorized operations to calculate distances, improving efficiency and minimizing execution time.
 - Binary Classification Task: The classifier was designed for a binary classification problem, achieving an accuracy of approximately 98%.
 - No External Libraries: Our implementation avoids dependencies on libraries like scikit-learn for the core algorithm, offering a transparent, ground-up understanding of how KNN works.
-- 
+  
 ## Highlights
 - Custom-built Functions: Key functions, such as Euclidean distance and custom summations, were manually implemented to control every aspect of the classification process.
 - Efficient Performance: By avoiding loops in favor of vectorized operations, we optimized the model's speed without sacrificing accuracy.
